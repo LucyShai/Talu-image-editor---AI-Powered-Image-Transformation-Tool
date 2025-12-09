@@ -1,0 +1,5 @@
+{
+  "name": "Talu Image Lab",
+  "description": "A professional-grade AI image editing suite powered by Google Gemini 2.5 Flash Image. Features custom generative edits, background removal, retouching, and artistic stylization.",
+  "requestFramePermissions": []
+}
