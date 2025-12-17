@@ -1,4 +1,5 @@
 🌟 TuLu Image Editor – AI-Powered Image Transformation Tool
+<img width="1136" height="729" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/6b570813-1bd7-43de-b77e-3ae1f1c9f9de" />
 
 TuLu Image Editor is an AI-driven image enhancement tool that allows users to upload a photo, apply advanced generative edits, and download high-quality results. Built using a no-code/AI-assisted workflow, the app focuses on smart image editing, background replacement, face enhancement, makeup filters, and object insertion, powered by large generative models.
 
